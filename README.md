@@ -41,7 +41,7 @@ My Webpage UD
    <h2>More About Me</h2>
    <details>
    <summary>My Childhood</summary>
-   <p>I grew up in New-Delhi India. I lived near India-gate and I really miss my home sometimes.</p>
+   <p>I grew up in New-Delhi, India. I lived near India-gate and I really miss my home sometimes.</p>
    </details>
    </section>
       
