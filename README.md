@@ -6,7 +6,7 @@ My Webpage UD
    
 <head>
    <meta charset="UTF-8">
-   <title> INTRODUCTION TO HTML FINAL PROJECT </title>
+   <title>INTRODUCTION TO HTML FINAL PROJECT</title>
 </head>
    
 <header>
