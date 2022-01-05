@@ -1,8 +1,10 @@
 # yuvrajIMS.github.io
 
+<!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>yuvrajIMS</title>
 	</head>
 	<body>
@@ -10,9 +12,7 @@
 			<p><li><a href="Intro to HTML final project.html"> Introduction to HTML Project - 1</a></li></p>
            	</ol>
 		
-		<video width="328 " height="244" controls>
-			<source src="https://github.com/yuvrajIMS/yuvrajIMS.github.io/blob/main/Media/vid_earth%20copy.mp4" type="video/mp4">
-			Error
-		</video> 		
-	</body>
+	<a href="https://github.com/yuvrajIMS/yuvrajIMS.github.io/blob/main/Media/vid_earth%20copy.mp4">Earth</a>
+		
+</body>
 </html>
