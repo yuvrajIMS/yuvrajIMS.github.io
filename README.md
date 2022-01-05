@@ -13,7 +13,7 @@
            	</ol>
 		
 	<video width="328 " height="244" controls>
-		<source src="https://github.com/yuvrajIMS/yuvrajIMS.github.io/blob/main/Media/vid_earth%20copy.mp4" type="video/mp4">
+		<source src="vid_earth copy.mp4" type="video/mp4">
 		Error
 	</video> 
 		
