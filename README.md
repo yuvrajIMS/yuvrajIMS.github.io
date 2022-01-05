@@ -13,7 +13,7 @@
            	</ol>
 		
 	<video width="328 " height="244" controls>
-		<source src="vid_earth copy.mp4" type="video/mp4">
+		<source src="vid_earth.mp4" type="video/mp4">
 		Error
 	</video> 
 		
