@@ -4,7 +4,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>yuvrajIMS</title>
 		<h1 style="color:black; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">yuvrajIMS.github.io</h1>	
-
+	<hr>
 	</head>
 	<body style="background-color:MediumSeaGreen">
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub"></a>
