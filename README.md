@@ -3,7 +3,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>yuvrajIMS</title>
-		<h1	style="color:green; background-color: #B3B3; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">yuvrajIMS.github.io</h1>	
+		<h1 style="color:black; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">yuvrajIMS.github.io</h1>	
 
 	</head>
 	<body style="background-color:MediumSeaGreen">
