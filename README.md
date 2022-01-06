@@ -14,7 +14,7 @@
 	<br>
 	<hr size="5" color="Orange">
 	<hr size="5" color="SlateBlue">
-	<video width="328 " height="244" controls>
+	<video width="328 " height="244" controls autoplay>
 		<source src="vid_earth.mp4" type="video/mp4">
 	Error
 	</video>
