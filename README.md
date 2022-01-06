@@ -8,7 +8,8 @@
 	</head>
 	<body style="background-color:MediumSeaGreen">
 		<ol start="1">
-			<p><li><a href="Intro to HTML final project.html"> Introduction to HTML Project - 1</a></li></p>
+			<p><li><a href="favlist.html"> My Favourite</a></li>
+			<li><a href="Intro to HTML final project.html">Introduction to HTML Project - 1</a></li></p>
            	</ol>
 	<br>
 	<br>
