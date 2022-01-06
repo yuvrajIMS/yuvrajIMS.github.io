@@ -10,7 +10,7 @@
 		<ol start="1">
 			<p><li><a href="favlist.html"><b>My Favourites</b></a></li>
 			<li><a href="Intro to HTML final project.html">Introduction to HTML Project - 1</a></li>
-			<li><a href="htmlproject2.html">HTML Project - 2</a></li></p>
+			<li><a href="htmlproject2.html">Introduction to HTML Project - 2</a></li></p>
            	</ol>
 	<br>
 	<br>
