@@ -9,7 +9,7 @@
 		<h1 style="color:tomato; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">paramTEJ</h1>	
 	<hr>
 	</head>
-	<body style="background-color:MediumSeaGreen">
+	<body style="background-color:#363945">
 		<p>
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub"></a>
 		<font color="tomato"> <em> &lt;-- click logo to visit my <b>GitHub Page</b> to see my projects </em>
