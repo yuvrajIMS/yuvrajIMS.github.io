@@ -9,7 +9,7 @@
 		<h1 style="color:tomato; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">paramTEJ</h1>			<marquee behaviour="scroll direction" direction="left" scrollamount="5"><font color="#7CFC00" style="font-family: Chalkduster;"><p><em>🇩🇪  🇮🇳 &lt;&lt;&lt;-----Willkommen-----Hello-----ਸਤ ਸ੍ਰੀ ਅਕਾਲ------स्वागत हे-----வரவேற்பு-----&#128522;&#128075;</em></p></font></marquee>
 	<hr>
 	</head>
-	<body style="background-color:#363945">
+	<body style="background-color:#363945; margin:0%;">
 		<p>
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:5px solid Chartreuse;"></a>
 		<font color="tomato"> <em> &lt;-- click logo to visit my <b>GitHub Page</b> to see my projects </em>
