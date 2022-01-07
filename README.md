@@ -18,11 +18,11 @@
 			<em> &lt;-- click logo to visit my <b>Linkedin Profile</b> </em></font>
 		</p>
 		<hr>
-		<font color="tomato">
+		<font color="#45B8AC">
 		<ol start="1">
-			<p><li><a href="favlist.html"><b><font color="tomato">My Favourites</font></b></a></li>
-			<li><a href="Intro to HTML final project.html"><font color="tomato">Introduction to HTML Project - 1</font></a></li>
-			<li><a href="htmlproject2.html"><font color="tomato">Introduction to HTML Project - 2</font></a></li></p>
+			<p><li><a href="favlist.html"><b><font color="#45B8AC">My Favourites</font></b></a></li>
+			<li><a href="Intro to HTML final project.html"><font color="#45B8AC">Introduction to HTML Project - 1</font></a></li>
+			<li><a href="htmlproject2.html"><font color="#45B8AC">Introduction to HTML Project - 2</font></a></li></p>
            	</ol>
 		</font>
 	<br>
