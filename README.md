@@ -6,7 +6,7 @@
 		<center>
 		<img src="imgs/yuvimslogo.png" alt="yuvlogo" class="marginauto" style=" width:100px;height:100px; border:3px solid orange;" >
 		</center>
-		<h1 style="color:tomato; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">paramTEJ</h1>	
+		<h1 style="color:tomato; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">paramTEJ</h1>			<marquee behaviour="scroll direction" direction="left" scrollamount="5"><font color="#7CFC00" style="font-family: Chalkduster;"><p><em>🇩🇪  🇮🇳 &lt;&lt;&lt;-----Willkommen-----Hello-----ਸਤ ਸ੍ਰੀ ਅਕਾਲ------स्वागत हे-----வரவேற்பு-----&#128522;&#128075;</em></p></font></marquee>
 	<hr>
 	</head>
 	<body style="background-color:#363945">
