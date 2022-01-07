@@ -7,11 +7,13 @@
 	<hr>
 	</head>
 	<body style="background-color:MediumSeaGreen">
+		<p>
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub"></a>
-		&lt;-- click logo to visit my <b>GitHub Page</b>
+		&lt;-- click logo to visit my <b>GitHub Page</b> to see my projects
 		<br>
 		<a href="https://www.linkedin.com/in/yuvraj-singh-658ba3209/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="Linkdn"></a>
 		&lt;-- click logo to visit my <b>Linkedin Profile</b>
+		</p>
 		<hr>
 
 		<ol start="1">
