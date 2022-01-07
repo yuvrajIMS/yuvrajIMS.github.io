@@ -3,7 +3,10 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>yuvrajIMS</title>
-		<h1 style="color:black; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">yuvrajIMS.github.io</h1>	
+		<center>
+		<img src="imgs/yuvimslogo.png" alt="yuvlogo" class="marginauto" style=" width:100px;height:100px; border:3px solid orange;" >
+		</center>
+		<h1 style="color:tomato; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">PARAMtej</h1>	
 	<hr>
 	</head>
 	<body style="background-color:MediumSeaGreen">
