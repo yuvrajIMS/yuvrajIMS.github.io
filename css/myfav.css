@@ -9,10 +9,9 @@ header
 
 h1
 {
-	color: #FFFF00;
-	font-size: xx-large;
+	color: #7CFC00;
+	font-style:Brush Script MT;
 	font-variant: small-caps;
-	font-style: oblique;
 	text-align: center;
 }
 
@@ -20,24 +19,25 @@ body
 {
 	padding: 2px;
 	margin: 2%;
-	background-color: #FFB6C1;
+	background-color:#363945;
 	color: DarkRed;
 }
 
 nav a
 {
 	display: inline-block;
-	margin: 2%;
+	margin: auto;
   
 	text-decoration: none;
-	padding: 2%;
+	padding: 20px;
   
-	color: #000000;
-	text-align: center;
-	vertical-align: middle;
-	background-color:     rgba(200,200,300,0.60);
-	width:150px;
-	height: 20px;
+	color:#DC143C;
+	text-align: -webkit-auto;
+	font-weight: bolder;
+	vertical-align: -webkit-baseline-middle;
+	background-color: #98FB98;
+	width:auto;
+	height: auto;
 		
 	-webkit-border-radius: 2;
 	-moz-border-radius: 2;
