@@ -10,7 +10,8 @@ header
 h1
 {
 	color: #7CFC00;
-	font-style:cursive;
+	font-family: Courier;
+	font-style: oblique;
 	font-variant: small-caps;
 	text-align: center;
 }
