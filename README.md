@@ -12,7 +12,7 @@
 	<body style="background-color:#363945; margin:0%;">
 		<p>
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:5px outset DeepPink;"></a>
-		<font color="tomato"> <em> &lt;-- click logo to visit my <b>GitHub Profil</b> </em>
+		<font color="tomato"> <em> &lt;-- click logo to visit my <b>GitHub Profile</b> </em>
 		<br>
 		<a href="https://www.linkedin.com/in/yuvraj-singh-658ba3209/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="Linkdn" style=" border:5px outset DeepPink;"></a>
 			<em> &lt;-- click logo to visit my <b>Linkedin Profile</b> </em></font>
