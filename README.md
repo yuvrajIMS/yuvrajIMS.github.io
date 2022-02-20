@@ -20,10 +20,12 @@
 		<hr>
 		<font color="#45B8AC">
 		<ol start="1">
-			<p><li><a href="favlist.html"><b><font color="#45B8AC">My Favourites</font></b></a></li>
+			<p>
+			<li><a href="favlist.html"><b><font color="#45B8AC">My Favourites</font></b></a></li>
 			<li><a href="Intro to HTML final project.html"><font color="#45B8AC"> HTML Page with CSS - 1</font></a></li>
-			<li><a href="htmlproject2.html"><font color="#45B8AC"> HTML page - 2</font></a></li></p>
-			<li><a href="PHP/PHP_basic.php"><font color="#45B8AC">PHP-Basics-Code</font></a></li></p>
+			<li><a href="htmlproject2.html"><font color="#45B8AC"> HTML page - 2</font></a></li>
+			<li><a href="PHP/PHP_basic.php"><font color="#45B8AC">PHP-Basics-Code</font></a></li>
+			</p>
            	</ol>
 		</font>
 	<br>
