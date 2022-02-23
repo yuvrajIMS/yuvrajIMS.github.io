@@ -10,7 +10,7 @@
 	<hr>
 	</head>
 	<body style="background-color:#363945; margin:0%;">
-		<p>
+		<p id="gitln">
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:5px outset DeepPink;"></a>
 		<font color="tomato"> <em> &lt;-- click logo to visit my <b>GitHub Profile</b> </em>
 		<br>
@@ -18,16 +18,37 @@
 			<em> &lt;-- click logo to visit my <b>Linkedin Profile</b> </em></font>
 		</p>
 		<hr>
+		
+		<p id="gitlist">
+		<a href="https://github.com/yuvrajIMS?tab=repositories"><b><font color="#45B8AC">List of My Projects on GitHub</font></b></a>
+		<font color="#45B8AC">
+		</p>
+		
+		<p id="html">	
 		<font color="#45B8AC">
 		<ol start="1">
 			<p>
-			<li><a href="favlist.html"><b><font color="#45B8AC">My Favourites</font></b></a></li>
+			<li><a href="favlist.html"><b><font color="#45B8AC">My Favourites (Using HTML & CSS)</font></b></a></li>
 			<li><a href="Intro to HTML final project.html"><font color="#45B8AC"> HTML Page with CSS - 1</font></a></li>
 			<li><a href="htmlproject2.html"><font color="#45B8AC"> HTML page - 2</font></a></li>
 			<li><a href="PHP/PHP_basic.php"><font color="#45B8AC">PHP-Basics-Code</font></a></li>
 			</p>
            	</ol>
 		</font>
+		</p>
+		
+		<p id="php">	
+		<font color="#45B8AC">
+		<ol start="1">
+			<p>
+			<li><a href="PHP/PHP_basic.php"><font color="#45B8AC">PHP-Basics-Code</font></a></li>
+			</p>
+           	</ol>
+		</font>
+		</p>
+		
+		
+		
 	<br>
 	<hr size="5" color="Orange">
 	<hr size="5" color="SlateBlue">
