@@ -22,7 +22,7 @@
 		<hr style="height:3px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
 		<br><br><br>
 					
-		<h1 style = "color:Orange; font-family:Courier; text-align:center;"> Web Applications </h1> 
+		<h1 style = "color:Orange; text-align:center;"> Web Applications </h1> 
 		<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
 		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;">&ensp;&ensp;HTML & CSS &dArr;</h3>
 		<p id="html">
