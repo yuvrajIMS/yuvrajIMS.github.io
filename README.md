@@ -11,7 +11,7 @@
 	
 
 	<body style="background-color:#363945; margin:auto;">		
-		<hr style="height:3px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
+		<hr style="height:3px; border-width: 0; color: #DE3163; background-color:#DE3163;">
 		<p id="gitln">
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:5px outset DeepPink;"></a>
 		<font color="tomato"> <em> &lArr; click logo to visit my <b>GitHub Profile</b></em></font>
@@ -24,7 +24,6 @@
 		
 		<p id="html">
 		<h1 style="color:#FFAA33; background-color: #008080; font-family: Courier; font-style: oblique; text-align: center;">Web Applications</h1>
-		<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
 		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;">&ensp;&ensp;HTML & CSS &dArr;</h3>
 		<ol start="1">
 			<font color="#45B8AC">
