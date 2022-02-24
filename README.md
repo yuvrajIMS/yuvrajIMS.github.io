@@ -22,7 +22,10 @@
 		<hr style="height:3px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
 		<br><br><br>
 					
-		<h1 style="color:Orange; font-family: Courier; font-style: oblique; text-align: center;">Web Applications</h1>
+		<h1 style = "color:Orange; font-family:Courier; font-style:oblique; text-align:center;"> Web Applications </h1>
+		
+		<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange;">
+		
 		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;">&ensp;&ensp;HTML & CSS &dArr;</h3>
 		<p id="html">
 		<ol start="1">
@@ -46,16 +49,16 @@
 		</p>		
 				
 	<br>
-	<hr style="height:2px; border-width: 0; color:Orange; background-color:Orange; ">
-	<hr style="height:2px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
+	<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
+	<hr style="height:3px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
 	<center>
 	<video width="328 " height="244" controls autoplay>
 		<source src="vid_earth.mp4" type="video/mp4">
 	Error
 	</video>
 	</center>
-	<hr style="height:2px; border-width: 0; color:Orange; background-color:Orange; ">
-	<hr style="height:2px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
+	<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
+	<hr style="height:3px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
 		
 	</body>
 </html>
