@@ -21,11 +21,11 @@
 		</p>
 		<hr style="height:3px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
 		<br><br><br>
-					
-		<h1 style = "color:Orange; text-align:center;"> Web Applications </h1> 
+		
+		<p id="html">
+		<h1 style = "color:Orange; text-align:center; "> Web Applications </h1> 
 		<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
 		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;">&ensp;&ensp;HTML & CSS &dArr;</h3>
-		<p id="html">
 		<ol start="1">
 			<font color="#45B8AC">
 			<li><a href="favlist.html"><font color="#45B8AC"> <b>My Favourites</b> ( Using HTML & CSS ) </font></a></li>
