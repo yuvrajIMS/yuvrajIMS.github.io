@@ -37,7 +37,7 @@
 		</ol>
 		</p>
 		
-		<h3 style="color:lightgreen; font-family: Courier; font-style: oblique;"> &ensp;&ensp;PHP &dArr; </h3>
+		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;PHP &dArr; </h3>
 		<p id="php">	
 		<font color="#45B8AC">
 		<ol start="1">
