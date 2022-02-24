@@ -2,7 +2,6 @@
 <meta charset="UTF-8">
 <p>
     <?php
-    $GithubRawURI= "https://raw.githubusercontent.com/yuvrajIMS/yuvrajIMS.github.io/edit/main/PHP/PHP_basic.php
         echo "This is a PHP script. <br> ";
         echo "<br>";
         // Declaring variable -> ans for multiple two numbers 
@@ -15,7 +14,8 @@
 
 <p>
     <?php
-     $GithubRawURI= "https://raw.githubusercontent.com/yuvrajIMS/yuvrajIMS.github.io/edit/main/PHP/PHP_basic.php
+
+        
         // backslash(\)is used as an “escape” character.
         // Concatenation is the"." not "+" (morelater).
         # This is a shell-style comment
