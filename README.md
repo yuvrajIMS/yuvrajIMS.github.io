@@ -8,7 +8,8 @@
 		</center>
 		<h1 style="color:tomato; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">paramTEJ</h1>
 		<hr size="2" color="red">
-		<marquee behaviour="scroll direction" direction="left" scrollamount="5"><font color="#7CFC00" style="font-family: Chalkduster;"><em>🇩🇪  🇮🇳 &lt;&lt;&lt;-----Willkommen-----Hello-----ਸਤ ਸ੍ਰੀ ਅਕਾਲ------स्वागत हे-----வரவேற்பு-----&#128522;&#128075;<em><font></marquee>
+		<marquee behaviour="scroll direction" direction="left" scrollamount="5"><font color="#7CFC00" style="font-family: Chalkduster;"><em>🇩🇪  🇮🇳 &lt;&lt;&lt;-----Willkommen-----Hello-----ਸਤ ਸ੍ਰੀ ਅਕਾਲ------स्वागत हे-----வரவேற்பு-----&#128522;&#128075;<em><font>
+		</marquee>
 	</head>
 	<hr size="2" color="red">
 	
