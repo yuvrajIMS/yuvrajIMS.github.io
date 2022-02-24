@@ -1,5 +1,10 @@
-<h2> PHP Basic </h2>
-<meta charset="UTF-8">
+<!DOCTYPE html>
+<html>
+    <head>
+        <h2> PHP Basic </h2>
+        <meta charset="UTF-8">
+    </head>
+<body>
 <p>
     <?php
         echo "This is a PHP script. <br> ";
@@ -145,3 +150,5 @@
         // "name" is "Key" in server and input is "Value".
     ?>
 </p>
+</body>
+</html>
