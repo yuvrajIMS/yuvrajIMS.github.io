@@ -10,8 +10,7 @@
 	</head>
 	
 
-	<body style="background-color:#363945; margin:0%;">		
-
+	<body style="background-color:#363945; margin:auto;">		
 		<hr style="height:2px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
 		<p id="gitln">
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:5px outset DeepPink;"></a>
