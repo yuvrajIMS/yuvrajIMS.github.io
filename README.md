@@ -21,7 +21,7 @@
 			<font color="tomato"><em> &lArr; click logo to visit my <b>Linkedin Profile</b></em></font>
 		</p>
 		<hr size="2" color="#DE3163">
-		<br><br><br><br><br>
+		<br><br><br>
 		
 		<section>
 		<h1 style="color:Orange; font-family: Courier; font-style: oblique; text-align: center;">Web Applications</h1>
