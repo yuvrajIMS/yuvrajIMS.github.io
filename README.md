@@ -23,7 +23,7 @@
 		<br><br><br>
 		
 		<p id="html">
-		<h1 style="color:#FFAA33; background-color: #008080; font-family: Courier; font-style: oblique; text-align: center;">Web Applications</h1>
+		<h1 style="color:#FFAA33; text-decoration:underline; background-color: #008080; font-family: Courier; font-style: oblique; text-align: center;">Web Applications</h1>
 		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;">&ensp;&ensp;HTML & CSS &dArr;</h3>
 		<ol start="1">
 			<font color="#45B8AC">
