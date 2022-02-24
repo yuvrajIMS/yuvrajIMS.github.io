@@ -11,8 +11,8 @@
 	
 
 	<body style="background-color:#363945; margin:0%;">		
-		
-		<hr size="2" color="#DE3163">
+
+		<hr style="height:2px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
 		<p id="gitln">
 		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:5px outset DeepPink;"></a>
 		<font color="tomato"> <em> &lArr; click logo to visit my <b>GitHub Profile</b></em></font>
@@ -20,11 +20,11 @@
 		<a href="https://www.linkedin.com/in/yuvraj-singh-658ba3209/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="Linkdn" style=" border:5px outset DeepPink;"></a>
 			<font color="tomato"><em> &lArr; click logo to visit my <b>Linkedin Profile</b></em></font>
 		</p>
-		<hr size="2" color="#DE3163">
+		<hr style="height:2px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
 		<br><br><br>
 					
 		<h1 style="color:Orange; font-family: Courier; font-style: oblique; text-align: center;">Web Applications</h1>
-		<hr size="2" color="Orange">
+		<hr style="height:2px; border-width: 0; color:Orange; background-color:Orange; ">
 		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;">&ensp;&ensp;HTML & CSS &dArr;</h3>
 		<p id="html">
 		<ol start="1">
@@ -48,16 +48,16 @@
 		</p>		
 				
 	<br>
-	<hr size="2" color="Orange">
-	<hr size="2" color="SlateBlue">
+	<hr style="height:2px; border-width: 0; color:Orange; background-color:Orange; ">
+	<hr style="height:2px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
 	<center>
 	<video width="328 " height="244" controls autoplay>
 		<source src="vid_earth.mp4" type="video/mp4">
 	Error
 	</video>
 	</center>
-	<hr size="2" color="SlateBlue">
-	<hr size="2" color="Orange">
+	<hr style="height:2px; border-width: 0; color:Orange; background-color:Orange; ">
+	<hr style="height:2px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
 		
 	</body>
 </html>
