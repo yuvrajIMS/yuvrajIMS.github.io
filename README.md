@@ -13,21 +13,25 @@
 	<body style="background-color:#363945; margin:auto;">		
 		<hr style="height:3px; border-width: 0; color: #DE3163; background-color:#DE3163;">
 		<p id="gitln">
-		<a href="https://github.com/yuvrajIMS"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:5px outset DeepPink;"></a>
-		<font color="tomato"> <em> &lArr; click logo to visit my <b>GitHub Profile</b></em></font>
-		<br><br>
+		<br>
 		<a href="https://www.linkedin.com/in/yuvraj-singh-658ba3209/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="Linkdn" style=" border:5px outset DeepPink;"></a>
-			<font color="tomato"><em> &lArr; click logo to visit my <b>Linkedin Profile</b></em></font>
+			<font color="tomato" font-family: sans-serif;> <b> &lArr; </b> click logo to visit my <b>Linkedin Profile</b></font>
 		</p>
 		<hr style="height:3px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
-		<br><br><br>
+		<br>
+		
+		<center><a href="https://github.com/yuvrajIMS?tab=repositories"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:4px outset yellow; padding: 5px;"></a>
+			<br>
+		<font color="gold" style="font-family:sans-serif; font-style: italic; font-variant:petite-caps;"><b> &uArr; <br> My GitHub Repository Button</b></font></center>
+	
+		<br><br>
 		
 		<p id="html">
 		<h1 style="color:#FFAA33; text-decoration:underline; background-color: #008080; font-family: Courier; font-style: oblique; text-align: center;">Web Applications</h1>
 		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;">&ensp;&ensp;HTML & CSS &dArr;</h3>
 		<ol start="1">
 			<font color="#45B8AC">
-			<li><a href="favlist.html"><font color="#45B8AC"> <b>My Favourites</b> ( Using HTML & CSS ) </font></a></li>
+			<li><a href="favlist.html"><font color="#45B8AC" > <b>My Favourites</b> ( Using HTML & CSS ) </font></a></li>
 			<li><a href="Intro to HTML final project.html"><font color="#45B8AC"> HTML Page with CSS - 1</font></a></li>
 			<li><a href="htmlproject2.html"><font color="#45B8AC"> HTML page - 2</font></a></li>
 			</font>
