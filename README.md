@@ -13,7 +13,6 @@
 	<body style="background-color:#363945; margin:auto;">		
 		<hr style="height:3px; border-width: 0; color: #DE3163; background-color:#DE3163;">
 		<p id="gitln">
-		<br>
 		<a href="https://www.linkedin.com/in/yuvraj-singh-658ba3209/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="Linkdn" style=" border:5px outset DeepPink;"></a>
 		<font color="tomato" style="font-family:sans-serif;"><b> &lArr; </b> click logo to visit my <b>Linkedin Profile</b></font>
 		</p>
