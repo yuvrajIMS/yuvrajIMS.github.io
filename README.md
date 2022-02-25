@@ -55,8 +55,9 @@
 	Error
 	</video>
 	</center>
-	<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
 	<hr style="height:3px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
+	<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
+	
 		
 	</body>
 </html>
