@@ -2,7 +2,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="css/gitstart.css">
+		
 		<title>yuvrajIMS</title>
 		<center>
 		<img src="imgs/yuvimslogo.png" alt="yuvlogo" class="marginauto" style=" width:100px;height:100px; border:2px solid orange;" >
@@ -27,13 +27,6 @@
 		<font color="gold" style="font-family:sans-serif; font-style: italic; font-variant:petite-caps;"><b> &uArr; <br> My GitHub Repository Button</b></font></center>
 	
 		<br><br>
-		
-    		<div class="sidenav">
-      			<a href="#about">Slot 1</a>
-      			<a href="#services">Slot 2</a>
-			<a href="#clients">Slot 3</a>
-       			<a href="#contact">Slot 4</a>
-    </div>
     
 		<p id="html">
 		<h1 style="color:#700000; text-decoration:underline; background-color: #097969; font-family: Courier; font-style: normal; text-align: center;">Web Applications</h1>
