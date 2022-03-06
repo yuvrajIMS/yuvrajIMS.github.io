@@ -2,16 +2,15 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		
 		<title>yuvrajIMS</title>
 		<center>
 		<img src="imgs/yuvimslogo.png" alt="yuvlogo" class="marginauto" style=" width:100px;height:100px; border:2px solid orange;" >
 		</center>
-		<h1 style="color:tomato; background-color:pink; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">paramTEJ</h1>
+		<h1 style="color:#feb236; background-color:#625750; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">paramTEJ</h1>
 	</head>
 	
 
-	<body style="background-color:#263045; margin:auto;">		
+	<body style="background-color:#282828; margin:auto; border:#DE3163 solid; padding: 0.4%;">		
 		<hr style="height:3px; border-width: 0; color: #DE3163; background-color:#DE3163;">
 		<p id="gitln">
 		<a href="https://www.linkedin.com/in/yuvraj-singh-658ba3209/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="Linkdn" style=" border:4px outset DeepPink; "></a>
@@ -27,9 +26,9 @@
 		<font color="gold" style="font-family:sans-serif; font-style: italic; font-variant:petite-caps;"><b> &uArr; <br> My GitHub Repository Button</b></font></center>
 	
 		<br><br>
-    
+
 		<p id="html">
-		<h1 style="color:#700000; text-decoration:underline; background-color: #097969; font-family: Courier; font-style: normal; text-align: center;">Web Applications</h1>
+		<h1 style="color:#feb236; text-decoration:underline; background-color:#405d27; font-family: Courier; font-style: normal; text-align: center;">Web Applications</h1>
 		<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;">&ensp;&ensp;HTML & CSS &dArr;</h3>
 		<ol start="1">
 			<font color="#45B8AC">
