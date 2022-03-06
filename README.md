@@ -10,7 +10,7 @@
 	</head>
 	
 
-	<body style="background-color:#282828; margin:auto; border:#DE3163 solid; padding: 0.2%;">		
+	<body style="background-color:#282828; margin:auto; padding: 0.2%;">		
 		<hr style="height:3px; border-width: 0; color: #DE3163; background-color:#DE3163;">
 		<p id="gitln">
 		<a href="https://www.linkedin.com/in/yuvraj-singh-658ba3209/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="Linkdn" style=" border:4px outset DeepPink; "></a>
