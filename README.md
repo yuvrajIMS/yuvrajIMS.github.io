@@ -17,9 +17,8 @@
 			<font color="tomato" style="font-family:sans-serif;"><b> &lArr; </b> click logo to visit my <b>Linkedin Profile</b></font>
 		</p>
 		<hr style="height:3px; border-width: 0; color: #DE3163 ; background-color:#DE3163; ">
-		<br>
-		<br>
 		
+		<br><br>
 		
 		<center><a href="https://github.com/yuvrajIMS?tab=repositories"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width="80" alt="GitHub" style=" border:4px outset yellow; padding: 5px;"></a>
 			<br>
@@ -32,16 +31,16 @@
 			<h3 style="color:#ff9900; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;Python &dArr; </h3>
 			<font color="#ffcc00">
 				<ol start="1">
-					<li><a href="Automation-with-Python/System_check.py"><font color="#ffcc00">System Check</font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/Automation-with-Python/blob/main/System_check.py"><font color="#ffcc00">System Check</font></a></li>
 					<li><a href="https://github.com/yuvrajIMS/Playing-Game-Using-Face"><font color="#ffcc00">Playing-Game-Using-Face <b>(Project)</b></font></a></li>
 				</ol>
 			</font>
 		</p>
+		<hr style="height:3px; border-width: 0; background-color:#ff6600;">
 		
+		<br><br><br>
 		
 		<h1 style="color:#FF9900; text-decoration:underline; background-color:#097054; font-family: Courier; font-style: normal; text-align: center;">Web Applications</h1>
-
-
 		<p id="sql">
 			<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;SQL &dArr; </h3>
 			<font color="#45B8AC">
@@ -72,21 +71,18 @@
 				</font>
 			</ol>
 		</p>
+		<hr style="height:3px; border-width: 0; background-color:#FF9900;">
 		
-				
-				
-		<br>
-		<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
-		<hr style="height:3px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
+		<br><br><br>
+		
+		<hr style="height:5px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
 		<center>
 			<video width="328 " height="244" controls autoplay>
 				<source src="vid_earth.mp4" type="video/mp4">
 				Error
 			</video>
 		</center>
-		<hr style="height:3px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
-		<hr style="height:3px; border-width: 0; color:Orange; background-color:Orange; ">
-		
+		<hr style="height:5px; border-width: 0; color:SlateBlue; background-color:SlateBlue; ">
 		
 	</body>
 </html>
