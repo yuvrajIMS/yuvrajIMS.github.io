@@ -45,8 +45,8 @@
 			<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;SQL &dArr; </h3>
 			<font color="#45B8AC">
 				<ol start="1">
-					<li><a href="PHP/PHP_basic.php"><font color="#45B8AC">Making SQL Database</font></a></li>
-					<li><a href="PHP/html_php_form.php"><font color="#45B8AC">SQL </font></a></li>
+					<li><a href="SQL/Participants.sql"><font color="#45B8AC">Making Simple SQL Database</font></a></li>
+					<li><a href=""><font color="#45B8AC">SQL </font></a></li>
 				</ol>
 			</font>
 		</p>
