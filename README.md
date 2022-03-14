@@ -31,7 +31,7 @@
 			<h3 style="color:#ff9900; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;Python &dArr; </h3>
 			<font color="#ffcc00">
 				<ol start="1">
-					<li><a href="https://github.com/yuvrajIMS/Automation-with-Python/blob/main/System_check.py"><font color="#ffcc00">System Check</font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/Automation-with-Python/blob/main/System_check.py"><font color="#ffcc00">System & Hardware Information</font></a></li>
 					<li><a href="https://github.com/yuvrajIMS/Playing-Game-Using-Face"><font color="#ffcc00">Playing-Game-Using-Face <b>(Project)</b></font></a></li>
 				</ol>
 			</font>
