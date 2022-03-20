@@ -40,7 +40,7 @@
 		
 		<br><br><br>
 		
-		<h1 style="color:#EE82EE; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Data Acquisition</h1>
+		<h1 style="color:#EE82EE; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Control & Data Acquisition</h1>
 		<p id="C">
 			<h3 style="color:#F4A460; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp; C / C++ &dArr; </h3>
 			<font color="#F08080">
