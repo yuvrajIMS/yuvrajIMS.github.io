@@ -42,7 +42,7 @@
 		
 		<h1 style="color:#FF4500; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Control & Data Acquisition</h1>
 		<p id="C">
-			<h3 style="color:#FFA07A; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp; C / C++ &dArr; </h3>
+			<h3 style="color:#FFA07A; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;<b> C / C++ </b> &dArr; </h3>
 			<font color="#F08080">
 				<ol start="1">
 					<li><a href="https://github.com/yuvrajIMS/Data_acquisition_using_multiple_IMUs"><font color="#F08080">Data Acquisition Using Multiple IMUs<b> (Project)</b></font></a></li>
