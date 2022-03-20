@@ -40,6 +40,24 @@
 		
 		<br><br><br>
 		
+		<h1 style="color:#EE82EE; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Data Acquisition</h1>
+		<p id="C">
+			<h3 style="color:#F4A460; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp; C / C++ &dArr; </h3>
+			<font color="#F08080">
+				<ol start="1">
+					<li><a href="https://github.com/yuvrajIMS/Data_acquisition_using_multiple_IMUs"><font color="#F08080">Data Acquisition Using Multiple IMUs<b> (Project)</b></font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/PWMsignal-Arduino-ROS"><font color="#F08080">Controlling <b>BlueROV Subsea Gripper</b> with <b>Arduino & ROS</b><b> (Project)</b></font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/Car_Diecast_LEDctl-Thomas_karmann-"><font color="#F08080">Diecast-Car LED &amp; Horn control using Ardunio 33 IOT Bluetooth module </font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/Arduino_basic"><font color="#F08080">Arduino Basic Codes</font></a></li>
+					
+				
+				</ol>
+			</font>
+		</p>
+		<hr style="height:3px; border-width: 0; background-color:#EE82EE;">
+		
+		<br><br><br>
+		
 		<h1 style="color:#FF9900; text-decoration:underline; background-color:#097054; font-family: Courier; font-style: normal; text-align: center;">Web Applications</h1>
 		<p id="sql">
 			<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;SQL &dArr; </h3>
