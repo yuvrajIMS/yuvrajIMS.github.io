@@ -28,11 +28,11 @@
 		
 		<h1 style="color:#ff6600; text-decoration:underline; background-color:#003366; font-family: Courier; font-style: normal; text-align: center;">Automation With Python</h1>
 		<p id="python">
-			<h3 style="color:#ff9900; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;Python &dArr; </h3>
-			<font color="#ffcc00">
+			<h3 style="color:#FF8C00; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;Python &dArr; </h3>
+			<font color="#BDB76B">
 				<ol start="1">
-					<li><a href="https://github.com/yuvrajIMS/Automation-with-Python/blob/main/System_check.py"><font color="#ffcc00">System & Hardware Information</font></a></li>
-					<li><a href="https://github.com/yuvrajIMS/Playing-Game-Using-Face"><font color="#ffcc00">Playing-Game-Using-Face <b>(Project)</b></font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/Automation-with-Python/blob/main/System_check.py"><font color="#BDB76B">System & Hardware Information</font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/Playing-Game-Using-Face"><font color="#BDB76B">Playing-Game-Using-Face <b>(Project)</b></font></a></li>
 				</ol>
 			</font>
 		</p>
@@ -40,21 +40,19 @@
 		
 		<br><br><br>
 		
-		<h1 style="color:#EE82EE; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Control & Data Acquisition</h1>
+		<h1 style="color:#FF4500; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Control & Data Acquisition</h1>
 		<p id="C">
-			<h3 style="color:#DE3163; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp; C / C++ &dArr; </h3>
+			<h3 style="color:#FFA07A; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp; C / C++ &dArr; </h3>
 			<font color="#F08080">
 				<ol start="1">
 					<li><a href="https://github.com/yuvrajIMS/Data_acquisition_using_multiple_IMUs"><font color="#F08080">Data Acquisition Using Multiple IMUs<b> (Project)</b></font></a></li>
 					<li><a href="https://github.com/yuvrajIMS/PWMsignal-Arduino-ROS"><font color="#F08080">Controlling <b>BlueROV Subsea Gripper</b> with <b>Arduino & ROS</b><b> (Project)</b></font></a></li>
 					<li><a href="https://github.com/yuvrajIMS/Car_Diecast_LEDctl-Thomas_karmann-"><font color="#F08080">Diecast-Car LED &amp; Horn control using Ardunio 33 IOT Bluetooth module </font></a></li>
 					<li><a href="https://github.com/yuvrajIMS/Arduino_basic"><font color="#F08080">Arduino Basic Codes</font></a></li>
-					
-				
 				</ol>
 			</font>
 		</p>
-		<hr style="height:3px; border-width: 0; background-color:#EE82EE;">
+		<hr style="height:3px; border-width: 0; background-color:#FF4500;">
 		
 		<br><br><br>
 		
