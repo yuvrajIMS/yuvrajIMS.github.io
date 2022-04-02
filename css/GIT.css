@@ -1,11 +1,12 @@
 /* Navbar container */
 .navbar {
-  overflow: visible;
+  overflow: auto;
   background-color: #333;
   font-family: Courier;
   position: fixed;  
   width: 100%;
   top:0;
+
 }
 
 /* Links inside the navbar */
