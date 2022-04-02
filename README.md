@@ -2,7 +2,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="css/GIT.css">
+		
     <div class="navbar">
   <div class="dropdown">
     <button class="dropbtn"><b>NAVIGATOR 🌏</b>
@@ -26,7 +26,7 @@
 	</head>
 	
 	
-	<body style="background-color:#282828; margin:auto; padding: 0.2%; width: 98%;">		
+	<body style="background-color:#282828; margin:auto; top:0; width: 98%;">		
 		<hr style="height:3px; border-width: 0; color: #DE3163; background-color:#DE3163;">
 	
 		
