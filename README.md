@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="css/GIT.css">
     <div class="navbar">
   <div class="dropdown">
-    <button class="dropbtn"><b>NAVIGATOR 🌏</b>
+    <button class="dropbtn"><b> &rArr; NAVIGATOR 🌏</b>
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
