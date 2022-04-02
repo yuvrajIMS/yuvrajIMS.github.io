@@ -2,16 +2,34 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="css/GIT.css">
+    <div class="navbar">
+  <div class="dropdown">
+    <button class="dropbtn"><b>NAVIGATOR 🌏</b>
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#python">Automation With Python 🐍</a>
+      <a href="#C">Control & Data Acquisition</a>
+      <a href="#WA">Web Applications</a>
+    </div>
+  </div> 
+</div>
+    <br><br><br><br>
+    
 		<title>yuvrajIMS</title>
 		<center>
-			<img src="imgs/yuvimslogo.png" alt="yuvlogo" class="marginauto" style=" width:100px;height:100px; border:2px solid orange;" >
+			<img src="imgs/yuvimslogo.png" alt="yuvlogo" class="marginauto" style=" width:100px; height:100px; border:2px solid orange;" >
 		</center>
 		<h1 style="color:#feb236; background-color:#625750; font-family: Courier; font-style: oblique; font-variant: small-caps; text-align: center;">paramTEJ</h1>
+		
 	</head>
 	
 	
-	<body style="background-color:#282828; margin:auto; padding: 0.2%; width: 99%;">		
+	<body style="background-color:#282828; margin:auto; padding: 0.2%; width: 98%;">		
 		<hr style="height:3px; border-width: 0; color: #DE3163; background-color:#DE3163;">
+	
+		
 		<p id="gitln">
 			<a href="https://www.linkedin.com/in/yuvraj-singh-658ba3209/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="Linkdn" style=" border:4px outset DeepPink; "></a>
 			<font color="tomato" style="font-family:sans-serif;"><b> &lArr; </b> click logo to visit my <b>Linkedin Profile</b></font>
@@ -26,8 +44,8 @@
 		
 		<br><br>
 		
-		<h1 style="color:#ff6600; text-decoration:underline; background-color:#003366; font-family: Courier; font-style: normal; text-align: center;">Automation With Python</h1>
-		<p id="python">
+		<h1 id="python" style="color:#ff6600; text-decoration:underline; background-color:#003366; font-family: Courier; font-style: normal; text-align: center;">Automation With Python</h1>
+		<p>
 			<h3 style="color:#FF8C00; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;Python &dArr; </h3>
 			<font color="#BDB76B">
 				<ol start="1">
@@ -40,8 +58,8 @@
 		
 		<br><br><br>
 		
-		<h1 style="color:#FF4500; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Control & Data Acquisition</h1>
-		<p id="C">
+		<h1 id="C" style="color:#FF4500; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Control & Data Acquisition</h1>
+		<p>
 			<h3 style="color:#FFA07A; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;<b> C / C++ </b> &dArr; </h3>
 			<font color="#F08080">
 				<ol start="1">
@@ -56,7 +74,7 @@
 		
 		<br><br><br>
 		
-		<h1 style="color:#FF9900; text-decoration:underline; background-color:#097054; font-family: Courier; font-style: normal; text-align: center;">Web Applications</h1>
+		<h1 id="WA" style="color:#FF9900; text-decoration:underline; background-color:#097054; font-family: Courier; font-style: normal; text-align: center;">Web Applications</h1>
 		<p id="sql">
 			<h3 style="color:lightgreen; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;SQL &dArr; </h3>
 			<font color="#45B8AC">
@@ -102,4 +120,5 @@
 		
 	</body>
 </html>
+
 
