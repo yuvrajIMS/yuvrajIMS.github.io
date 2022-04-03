@@ -2,6 +2,15 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Personal website containing experimental contents for personal use.">
+	<meta name="author" content="And96">
+	<meta name="keywords" content="And96, Developer, Website, Job, Github">
+	<meta name="theme-color" content="#1e2327">
+		
+		
 		<link rel="stylesheet" href="css/GIT.css">
     <div class="navbar">
   <div class="dropdown">
