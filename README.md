@@ -59,7 +59,7 @@
 			<font color="#BDB76B">
 				<ol start="1">
 					<li><a href="https://github.com/yuvrajIMS/Automation-with-Python/blob/main/System_check.py"><font color="#BDB76B">System & Hardware Information</font></a></li>
-					<li><a href="https://github.com/yuvrajIMS/Playing-Game-Using-Face"><font color="#BDB76B">Playing-Game-Using-Face <b>(Project)</b></font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/Playing-Game-Using-Face"><font color="#BDB76B">Playing-Game-Using-Face <b>(University Project)</b></font></a></li>
 				</ol>
 			</font>
 		</p>
@@ -72,8 +72,8 @@
 			<h3 style="color:#FFA07A; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;<b> C / C++ </b> &dArr; </h3>
 			<font color="#F08080">
 				<ol start="1">
-					<li><a href="https://github.com/yuvrajIMS/Data_acquisition_using_multiple_IMUs"><font color="#F08080">Data Acquisition Using Multiple IMUs<b> (Project)</b></font></a></li>
-					<li><a href="https://github.com/yuvrajIMS/PWMsignal-Arduino-ROS"><font color="#F08080">Controlling <b>BlueROV Subsea Gripper</b> with <b>Arduino & ROS</b><b> (Project)</b></font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/Data_acquisition_using_multiple_IMUs"><font color="#F08080">Data Acquisition Using Multiple IMUs<b> (Thesis Project)</b></font></a></li>
+					<li><a href="https://github.com/yuvrajIMS/PWMsignal-Arduino-ROS"><font color="#F08080">Controlling <b>BlueROV Subsea Gripper</b> with <b>Arduino & ROS</b><b> (University Project)</b></font></a></li>
 					<li><a href="https://github.com/yuvrajIMS/Car_Diecast_LEDctl-Thomas_karmann-"><font color="#F08080">Diecast-Car LED &amp; Horn control using Ardunio 33 IOT Bluetooth module </font></a></li>
 					<li><a href="https://github.com/yuvrajIMS/Arduino_basic"><font color="#F08080">Arduino Basic Codes</font></a></li>
 				</ol>
