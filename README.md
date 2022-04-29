@@ -67,7 +67,7 @@
 		
 		<br><br><br>
 		
-		<h1 id="C" style="color:#FF4500; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;">Control & Data Acquisition</h1>
+		<h1 id="C" style="color:#FF4500; text-decoration:underline; background-color:#501f3a; font-family: Courier; font-style: normal; text-align: center;"> Embedded Systems </h1>
 		<p>
 			<h3 style="color:#FFA07A; font-family: sans-serif; font-style: oblique;"> &ensp;&ensp;<b> C / C++ </b> &dArr; </h3>
 			<font color="#F08080">
