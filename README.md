@@ -19,7 +19,7 @@
     </button>
     <div class="dropdown-content">
       <a href="#python">Automation With Python 🐍</a>
-      <a href="#C">Control & Data Acquisition</a>
+      <a href="#C">Embedded Systems </a>
       <a href="#WA">Web Applications</a>
     </div>
   </div> 
